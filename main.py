@@ -30,5 +30,4 @@ while running:
     pygame.display.flip()
     clock.tick(FPS)
 
-# Завершение работы
 pygame.quit()
